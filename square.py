@@ -1,3 +1,3 @@
 
 def square_num(a):
-    return a*a
+    return a*a +1
